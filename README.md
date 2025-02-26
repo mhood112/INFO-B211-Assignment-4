@@ -24,7 +24,7 @@ This program analyzes NBA players statistics from a CSV file provided, that cont
   - scipy.integrate.quad - used for integration
 
 ### Functions
-  - load_dataset(file_path)
+  - #### load_dataset(file_path)
       - **Purpose**
           - Loads the csv into a pandas DataFrame
       - **Parameters**
