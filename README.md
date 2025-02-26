@@ -25,12 +25,12 @@ This program analyzes NBA players statistics from a CSV file provided, that cont
 
 ### Functions
   - load_dataset(file_path)
-      **Purpose**
-        Loads the csv into a pandas DataFrame
-      **Parameters**
-        file_path - path to the CSV file
-      **Returns**
-        df(DataFrame) - returns the loaded DataFrame or none if an error arises
+      - **Purpose**
+          - Loads the csv into a pandas DataFrame
+      - **Parameters**
+          - file_path - path to the CSV file
+      - **Returns**
+          - df(DataFrame) - returns the loaded DataFrame or none if an error arises
 
   - main()
       **Purpose**
