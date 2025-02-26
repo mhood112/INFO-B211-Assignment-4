@@ -32,9 +32,9 @@ This program analyzes NBA players statistics from a CSV file provided, that cont
       - **Returns**
           - df(DataFrame) - returns the loaded DataFrame or none if an error arises
 
-  - main()
-      **Purpose**
-    This is the main function that will perform all of the data analysis.
+  - #### main()
+      - **Purpose**
+          - This is the main function that will perform all of the data analysis.
 
     ### Explanation of Each Section
     
