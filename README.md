@@ -66,5 +66,9 @@ This program analyzes NBA players statistics from a CSV file provided, that cont
   - Missing values are filled with 0, but that might not be the best for this data.
 
   ## Conclusion 
-      The mean for the FGA is higher than the mean for the FGM meaning that more field goals are attemped than made. The variance of FGA is higher than the FGM, meaning that the attempts are more spread out compared to the made field goals. FGA has a higher skewness than FGM, meaning that the distribution of attempts is more skewed. The kurtosis values for FGM is higher than FGA, so this means that the distribution of attempts has heavier tails. 
+
+The mean for the FGA is higher than the mean for the FGM meaning that more field goals are attemped than made.
+The variance of FGA is higher than the FGM, meaning that the attempts are more spread out compared to the made 
+field goals. FGA has a higher skewness than FGM, meaning that the distribution of attempts is more skewed. The 
+kurtosis values for FGM is higher than FGA, so this means that the distribution of attempts has heavier tails. 
     
