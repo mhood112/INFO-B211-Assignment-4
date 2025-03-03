@@ -37,6 +37,10 @@ This program analyzes NBA players statistics from a CSV file provided, that cont
           - This is the main function that will perform all of the data analysis.
 
     ### Explanation of Each Section
+      - ##### Main
+        - This is where the base path and CSV file is defined. Then they are both combine to get the full fiel path. Then the dataset is loaded in as a dataframe.
+
+      - 
     
       
     
